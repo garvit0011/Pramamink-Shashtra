@@ -1,0 +1,78 @@
+#doc3 {
+    margin: auto;
+    width: auto;
+    height:1400px;
+    background-image: radial-gradient(rgb(243, 196, 255),rgb(245, 176, 156));
+}
+
+#table1
+{
+    background-color: rgb(209, 209, 209);
+    text-align: left;
+    max-width: 1500px;
+}
+
+#heading_1
+{
+    font-family:'Brush Script MT', cursive;
+    color: aliceblue;
+    font-size:70px;
+    text-shadow: 2px 2px rgb(243, 196, 255);
+}
+#heading_2
+{
+    color:cornsilk;
+    font-size:30px;
+    font-weight: bold;
+}
+.upload{
+    align-content: center;
+    font-size: larger;
+    background-color: aquamarine;
+    color: brown, im !important;
+}
+#card
+{
+    background-image: radial-gradient(rgb(243, 253, 48),rgb(231, 187, 222));
+    opacity: 0.8;
+    border-color: rgb(255, 255, 255);
+    border-radius: 4%;
+    border-width: 3px;
+}
+.card-header
+{
+    color: aliceblue;
+    font-weight: 900;
+}
+.form-control
+{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.374);
+}
+#browse{
+    padding-inline: 100px;
+
+    }
+#address
+{
+    padding-top: 25px;
+    color: black;
+
+}
+
+
+
+.footer {
+    position:static;
+    left: 0;
+    bottom: 0;
+    border-style: double;
+    width: 99.99%;
+    background-color: #242323;
+    opacity: 0.8; 
+    border-radius: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    color: rgb(245, 245, 245);
+    text-align: center;
+ }
